@@ -1,0 +1,5 @@
+streamlit
+torch
+music21>=9.1.0
+numpy
+pandas
